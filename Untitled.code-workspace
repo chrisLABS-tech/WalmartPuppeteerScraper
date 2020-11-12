@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../pythonWebCrawler"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../pythonStackOverflow"
+		},
+		{
+			"path": "../PuppeteerWalmart2.0"
+		}
+	],
+	"settings": {}
+}
